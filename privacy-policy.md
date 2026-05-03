@@ -1,13 +1,14 @@
-#Privacy Policy for Microscope Camera
+# Privacy Policy for Microscope Camera
 
 Last updated: May 3, 2026
 
-#Summary
+# Summary
 
 Microscope Camera is designed to keep your data on your device. We do not operate any servers that receive data from the App. We do not collect personal information, do not run analytics, and do not track usage. All images, videos, recordings, projects, and settings stay on your Mac under your control.
+
 The only situation in which data leaves your device is when you choose to use the optional AI feature, in which case prompts and images are sent directly from your Mac to Anthropic or OpenAI using your own API key. We are not involved in that exchange.
 
-#What we collect
+# What we collect
 
 Nothing.
 
