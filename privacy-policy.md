@@ -89,7 +89,7 @@ If you wish to exercise rights regarding data sent to Anthropic or OpenAI throug
 
 We may update this Privacy Policy from time to time to reflect changes in the App's functionality or in applicable law. When we do, we will update the "Last updated" date at the top of this policy and post the new version at the same URL where you found it. Material changes will be communicated through an in-app notice or release notes.
 
-#Contact
+# Contact
 
 If you have any questions or concerns about this Privacy Policy or the App's privacy practices, please contact:
 
